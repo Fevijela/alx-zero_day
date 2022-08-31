@@ -1,1 +1,1 @@
-my new readme updated on Alx training
+my new readme updated on Alx training and lectures
